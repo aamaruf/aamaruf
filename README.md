@@ -102,10 +102,6 @@
 
 
 ## Github Stats 🔥🔥🔥:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aamaruf&count_private=true&hide_total_contributions=false&&show_icons=true&title_color=cf5975&icon_color=92cce1&text_color=D3D3D3&bg_color=1c1c1c" alt="A A MAruf width="70%" />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamaruf&theme=onedark" alt="A A Maruf" width="70%"/>
