@@ -1,9 +1,14 @@
 # Hello World 🌎: I'm Abdullah Al Maruf  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
+<!-- Profile visitor by antonkomarev - https://github.com/antonkomarev/github-profile-views-counter -->
+<a href="https://komarev.com/ghpvc/?username=aamaruf">
+  <img align="right" src="https://komarev.com/ghpvc/?username=aamaruf&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+<!-- Wakatime badge - https://wakatime.com -->
+[![wakatime](https://wakatime.com/badge/user/08b54e34-06a6-4c47-b2fb-e8c613c7771b.svg)](https://wakatime.com/@08b54e34-06a6-4c47-b2fb-e8c613c7771b)
+
 <img align="left" width="100%" src="https://readme-typing-svg.demolab.com/?lines=I'm%20a%20Software%20Engineer;Always%20learning%20new%20things;My%20Interests%20are%20API Development%20and%20System%20Design&font=Fira%20Code&width=1000&height=50&color=f75c7e&vCenter=true&pause=500&size=22">
-
-
-
 
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
